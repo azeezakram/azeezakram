@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdul Azeez</h1>
-<h3 align="center">AI & Full-Stack Engineer | Sri Lanka</h3>
+<h3 align="center">AI Full-Stack Engineer | Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=azeezakram&label=Profile+Views&color=blue" />
